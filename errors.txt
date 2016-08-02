@@ -1,0 +1,4 @@
+The first digit was not '1' in 000011101000010110010101001.
+The bar code was not 27 characters in 11000111000101001010010100.
+The last digit was not '1' in 100101110001010010100101000.
+There must be exactly two 1's in "10101". full code: 100110101010011011000101001
